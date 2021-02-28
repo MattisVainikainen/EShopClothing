@@ -5,7 +5,7 @@
   letter-spacing: 1.2px;
   line-height: 50px;
   padding: 0 25px 0 25px;
-  font-size: 18px;
+  font-size: 12px;
   background-color: black;
   color: white;
   text-transform: uppercase;
@@ -18,10 +18,11 @@
     background-color: white;
     color: black;
     border: 1px solid black;
+    font-size: 12px;
   }
 
   &.google-sign-in {
-    font-size: 16px;
+    font-size: 14px;
     background-color: #4285f4;
     color: white;
 
